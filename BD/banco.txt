@@ -1,0 +1,20 @@
+custo de construcao do quarto 1: 400000.000000
+custo de construcao do quarto 1: 40000.000000
+custo de construcao do quarto 1: 4000.00
+custo de construcao do quarto 1: 4000.00
+custo de construcao do quarto 1: 20000.00
+Teste de Bancos
+custo de construcao do quarto 1: 20000.00
+Area 1: 10000.00
+Area 2: 10000.00
+Area 3: 10000.00
+Area 4: 10000.00
+Area 5: 10000.00
+nome: a
+
+cpf: 6421888
+telefone: 6421808
+nome: a
+
+cpf: 20
+telefone: 20
